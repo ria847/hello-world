@@ -2,4 +2,4 @@
 First Repository
 
 New to git. Trying to figure things out.
-Added new lin
+Added new line.
